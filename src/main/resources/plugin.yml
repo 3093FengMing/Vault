@@ -1,0 +1,3 @@
+name: Vault
+version: '${project.version}'
+main: me.fengming.vault.Vault
